@@ -1,0 +1,3 @@
+# Hospital Emergency Queue Visualizer - Python
+# This project uses Python standard libraries only.
+# No external pip packages are required.
